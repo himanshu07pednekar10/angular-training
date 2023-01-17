@@ -1,0 +1,16 @@
+.fullpage{
+    height: 700px;
+    width: 40%;
+    border: 1px solid black;
+    transform: translateX(60%);
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color:rgb(170, 170, 69);
+}
+.data{
+    margin-left: 10px;
+}
